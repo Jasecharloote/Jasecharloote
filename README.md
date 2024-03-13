@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[SAFe® 6 Architect](https://www.credly.com/badges/9b00d785-702c-476f-aa91-bc7de5775af2/public_url)
 <!--
 **Jasecharloote/Jasecharloote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
